@@ -16,7 +16,7 @@ This Flutter project is designed to implement three screens that display details
 ## Running the App
 Please follow the instructions below to run the application:
 
-1. Clone the repository from GitHub: [Github Repository](https://github.com/shivsarthak/shypp_task)
+1. Clone the repository from GitHub: [Github Repository](https://github.com/shivsarthak/shyp_task)
 2. Open the cloned project in your preferred Flutter development environment .
 3. Ensure that you have the Flutter SDK installed. If not, refer to the official Flutter documentation for installation instructions: 
 4. Install the required dependencies by running the following command in the terminal:
